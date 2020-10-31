@@ -1,0 +1,8 @@
+ bpy.context.scene.
+                      BakeTool_Jobs
+                      BakeTool_Objects
+                      BakeTool_ReportData
+                      BakeTool_Settings
+					  
+					  
+					  
